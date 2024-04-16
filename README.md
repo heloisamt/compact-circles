@@ -12,3 +12,5 @@ This repository contains a Python algorithm that generates circles with random p
 
 ## Installation
 Clone the repository using:
+
+git clone https://github.com/heloisamt/compact-circles.git
